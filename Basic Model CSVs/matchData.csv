@@ -1,0 +1,652 @@
+Winner,MatchID,Team1,Team2,Margin,Year
+Sri Lanka,0,Bangladesh,Sri Lanka,7 wickets,2010
+Sri Lanka,1,India,Sri Lanka,5 wickets,2010
+India,2,Bangladesh,India,6 wickets,2010
+Sri Lanka,3,Bangladesh,Sri Lanka,9 wickets,2010
+India,4,India,Sri Lanka,8 wickets,2010
+India,5,Bangladesh,India,6 wickets,2010
+Sri Lanka,6,India,Sri Lanka,4 wickets,2010
+Australia,7,Australia,Pakistan,5 wickets,2010
+Australia,8,Australia,Pakistan,140 runs,2010
+Australia,9,Australia,Pakistan,40 runs,2010
+Australia,10,Australia,Pakistan,135 runs,2010
+Australia,11,Australia,Pakistan,2 wickets,2010
+New Zealand,12,New Zealand,Bangladesh,146 runs,2010
+Australia,13,Australia,West Indies,113 runs,2010
+New Zealand,14,New Zealand,Bangladesh,5 wickets,2010
+Australia,15,Australia,West Indies,8 wickets,2010
+New Zealand,16,New Zealand,Bangladesh,3 wickets,2010
+Australia,17,Australia,West Indies,50 runs,2010
+Australia,18,Australia,West Indies,125 runs,2010
+India,19,India,South Africa,1 run,2010
+India,20,India,South Africa,153 runs,2010
+South Africa,21,India,South Africa,90 runs,2010
+England,22,Bangladesh,England,6 wickets,2010
+England,23,Bangladesh,England,2 wickets,2010
+New Zealand,24,New Zealand,Australia,2 wickets,2010
+England,25,Bangladesh,England,45 runs,2010
+Australia,26,New Zealand,Australia,12 runs,2010
+Australia,27,New Zealand,Australia,6 wickets,2010
+Australia,28,New Zealand,Australia,6 wickets,2010
+New Zealand,29,New Zealand,Australia,51 runs,2010
+South Africa,30,West Indies,South Africa,66 runs,2010
+South Africa,31,West Indies,South Africa,17 runs,2010
+South Africa,32,West Indies,South Africa,67 runs,2010
+India,33,India,Sri Lanka,7 wickets,2010
+South Africa,34,West Indies,South Africa,7 wickets,2010
+South Africa,35,West Indies,South Africa,1 wicket,2010
+Sri Lanka,36,India,Sri Lanka,6 wickets,2010
+Sri Lanka,37,Sri Lanka,Pakistan,16 runs,2010
+India,38,Bangladesh,India,6 wickets,2010
+Sri Lanka,39,Sri Lanka,Bangladesh,126 runs,2010
+India,40,India,Pakistan,3 wickets,2010
+Pakistan,41,Bangladesh,Pakistan,139 runs,2010
+Sri Lanka,42,Sri Lanka,India,7 wickets,2010
+England,43,England,Australia,4 wickets,2010
+India,44,Sri Lanka,India,81 runs,2010
+England,45,England,Australia,4 wickets,2010
+England,46,England,Australia,1 wicket,2010
+Australia,47,England,Australia,78 runs,2010
+Australia,48,England,Australia,42 runs,2010
+England,49,England,Bangladesh,6 wickets,2010
+Bangladesh,50,England,Bangladesh,5 runs,2010
+England,51,England,Bangladesh,144 runs,2010
+New Zealand,52,India,New Zealand,200 runs,2010
+Sri Lanka,53,Sri Lanka,New Zealand,3 wickets,2010
+India,54,Sri Lanka,India,6 wickets,2010
+Sri Lanka,55,Sri Lanka,India,8 wickets,2010
+India,56,India,New Zealand,105 runs,2010
+Sri Lanka,57,Sri Lanka,India,74 runs,2010
+England,58,England,Pakistan,24 runs,2010
+England,59,England,Pakistan,4 wickets,2010
+Pakistan,60,England,Pakistan,23 runs,2010
+Pakistan,61,England,Pakistan,38 runs,2010
+England,62,England,Pakistan,121 runs,2010
+Bangladesh,63,Bangladesh,New Zealand,9 runs,2010
+Bangladesh,64,Bangladesh,New Zealand,7 wickets,2010
+Bangladesh,65,Bangladesh,New Zealand,9 runs,2010
+Bangladesh,66,Bangladesh,New Zealand,3 runs,2010
+India,67,India,Australia,5 wickets,2010
+South Africa,68,Pakistan,South Africa,8 wickets,2010
+Pakistan,69,Pakistan,South Africa,1 wicket,2010
+South Africa,70,Pakistan,South Africa,2 runs,2010
+Sri Lanka,71,Australia,Sri Lanka,1 wicket,2010
+Sri Lanka,72,Australia,Sri Lanka,29 runs,2010
+Pakistan,73,Pakistan,South Africa,1 wicket,2010
+Australia,74,Australia,Sri Lanka,8 wickets,2010
+South Africa,75,Pakistan,South Africa,57 runs,2010
+India,76,India,New Zealand,40 runs,2010
+India,77,India,New Zealand,8 wickets,2010
+India,78,India,New Zealand,9 wickets,2010
+India,79,India,New Zealand,5 wickets,2010
+India,80,India,New Zealand,8 wickets,2010
+South Africa,81,South Africa,India,135 runs,2011
+India,82,South Africa,India,1 run,2011
+Australia,83,Australia,England,6 wickets,2011
+India,84,South Africa,India,2 wickets,2011
+Australia,85,Australia,England,46 runs,2011
+South Africa,86,South Africa,India,48 runs,2011
+New Zealand,87,New Zealand,Pakistan,9 wickets,2011
+Australia,88,Australia,England,4 wickets,2011
+South Africa,89,South Africa,India,33 runs,2011
+England,90,Australia,England,21 runs,2011
+Pakistan,91,New Zealand,Pakistan,43 runs,2011
+Australia,92,Australia,England,51 runs,2011
+Pakistan,93,New Zealand,Pakistan,2 wickets,2011
+Australia,94,Australia,England,2 wickets,2011
+Pakistan,95,New Zealand,Pakistan,41 runs,2011
+Sri Lanka,96,Sri Lanka,West Indies,8 wickets,2011
+New Zealand,97,New Zealand,Pakistan,57 runs,2011
+Australia,98,Australia,England,57 runs,2011
+Sri Lanka,99,Sri Lanka,West Indies,26 runs,2011
+India,100,Bangladesh,India,87 runs,2011
+South Africa,101,South Africa,West Indies,7 wickets,2011
+Australia,102,Australia,New Zealand,7 wickets,2011
+Pakistan,103,Sri Lanka,Pakistan,11 runs,2011
+West Indies,104,Bangladesh,West Indies,9 wickets,2011
+England,105,England,South Africa,6 runs,2011
+New Zealand,106,New Zealand,Pakistan,110 runs,2011
+Bangladesh,107,Bangladesh,England,2 wickets,2011
+South Africa,108,India,South Africa,3 wickets,2011
+England,109,England,West Indies,18 runs,2011
+Sri Lanka,110,New Zealand,Sri Lanka,112 runs,2011
+South Africa,111,Bangladesh,South Africa,206 runs,2011
+Pakistan,112,Australia,Pakistan,4 wickets,2011
+India,113,India,West Indies,80 runs,2011
+Pakistan,114,Pakistan,West Indies,10 wickets,2011
+India,115,India,Australia,5 wickets,2011
+New Zealand,116,New Zealand,South Africa,49 runs,2011
+Sri Lanka,117,Sri Lanka,England,10 wickets,2011
+Sri Lanka,118,Sri Lanka,New Zealand,5 wickets,2011
+India,119,India,Pakistan,29 runs,2011
+India,120,India,Sri Lanka,6 wickets,2011
+Australia,121,Bangladesh,Australia,60 runs,2011
+Australia,122,Bangladesh,Australia,9 wickets,2011
+Australia,123,Bangladesh,Australia,66 runs,2011
+Pakistan,124,West Indies,Pakistan,8 wickets,2011
+Pakistan,125,West Indies,Pakistan,7 wickets,2011
+Pakistan,126,West Indies,Pakistan,3 wickets,2011
+West Indies,127,West Indies,Pakistan,1 run,2011
+West Indies,128,West Indies,Pakistan,10 wickets,2011
+India,129,West Indies,India,4 wickets,2011
+India,130,West Indies,India,7 wickets,2011
+India,131,West Indies,India,3 wickets,2011
+West Indies,132,West Indies,India,103 runs,2011
+West Indies,133,West Indies,India,7 wickets,2011
+England,134,England,Sri Lanka,110 runs,2011
+Sri Lanka,135,England,Sri Lanka,69 runs,2011
+Sri Lanka,136,England,Sri Lanka,6 wickets,2011
+England,137,England,Sri Lanka,10 wickets,2011
+England,138,England,Sri Lanka,16 runs,2011
+Australia,139,Sri Lanka,Australia,7 wickets,2011
+Australia,140,Sri Lanka,Australia,8 wickets,2011
+Sri Lanka,141,Sri Lanka,Australia,78 runs,2011
+Australia,142,Sri Lanka,Australia,5 wickets,2011
+Sri Lanka,143,Sri Lanka,Australia,4 wickets,2011
+England,144,England,India,7 wickets,2011
+England,145,England,India,3 wickets,2011
+England,146,England,India,6 wickets,2011
+West Indies,147,Bangladesh,West Indies,40 runs,2011
+India,148,India,England,126 runs,2011
+West Indies,149,Bangladesh,West Indies,8 wickets,2011
+India,150,India,England,8 wickets,2011
+Bangladesh,151,Bangladesh,West Indies,8 wickets,2011
+Australia,152,South Africa,Australia,93 runs,2011
+India,153,India,England,5 wickets,2011
+India,154,India,England,6 wickets,2011
+South Africa,155,South Africa,Australia,80 runs,2011
+India,156,India,England,95 runs,2011
+Australia,157,South Africa,Australia,3 wickets,2011
+Pakistan,158,Pakistan,Sri Lanka,8 wickets,2011
+Sri Lanka,159,Pakistan,Sri Lanka,25 runs,2011
+Pakistan,160,Pakistan,Sri Lanka,21 runs,2011
+Pakistan,161,Pakistan,Sri Lanka,26 runs,2011
+Pakistan,162,Pakistan,Sri Lanka,3 wickets,2011
+India,163,India,West Indies,1 wicket,2011
+Pakistan,164,Bangladesh,Pakistan,5 wickets,2011
+India,165,India,West Indies,5 wickets,2011
+Pakistan,166,Bangladesh,Pakistan,76 runs,2011
+West Indies,167,India,West Indies,16 runs,2011
+Pakistan,168,Bangladesh,Pakistan,58 runs,2011
+India,169,India,West Indies,153 runs,2011
+India,170,India,West Indies,34 runs,2011
+South Africa,171,South Africa,Sri Lanka,258 runs,2012
+South Africa,172,South Africa,Sri Lanka,5 wickets,2012
+South Africa,173,South Africa,Sri Lanka,4 runs,2012
+Sri Lanka,174,South Africa,Sri Lanka,5 wickets,2012
+Sri Lanka,175,South Africa,Sri Lanka,2 wickets,2012
+Australia,176,Australia,India,65 runs,2012
+India,177,India,Sri Lanka,4 wickets,2012
+Australia,178,Australia,Sri Lanka,5 runs,2012
+Pakistan,179,Afghanistan,Pakistan,7 wickets,2012
+India,180,Australia,India,4 wickets,2012
+England,181,England,Pakistan,130 runs,2012
+England,182,England,Pakistan,20 runs,2012
+Sri Lanka,183,Australia,Sri Lanka,8 wickets,2012
+England,184,England,Pakistan,9 wickets,2012
+Australia,185,Australia,India,110 runs,2012
+Sri Lanka,186,India,Sri Lanka,51 runs,2012
+England,187,England,Pakistan,4 wickets,2012
+Sri Lanka,188,Australia,Sri Lanka,3 wickets,2012
+South Africa,189,New Zealand,South Africa,6 wickets,2012
+Australia,190,Australia,India,87 runs,2012
+India,191,India,Sri Lanka,7 wickets,2012
+South Africa,192,New Zealand,South Africa,6 wickets,2012
+Sri Lanka,193,Australia,Sri Lanka,9 runs,2012
+South Africa,194,New Zealand,South Africa,5 wickets,2012
+Australia,195,Australia,Sri Lanka,15 runs,2012
+Sri Lanka,196,Australia,Sri Lanka,8 wickets,2012
+Australia,197,Australia,Sri Lanka,16 runs,2012
+Pakistan,198,Bangladesh,Pakistan,21 runs,2012
+India,199,India,Sri Lanka,50 runs,2012
+Pakistan,200,Pakistan,Sri Lanka,6 wickets,2012
+Bangladesh,201,Bangladesh,India,5 wickets,2012
+Australia,202,West Indies,Australia,64 runs,2012
+India,203,India,Pakistan,6 wickets,2012
+West Indies,204,West Indies,Australia,5 wickets,2012
+Bangladesh,205,Bangladesh,Sri Lanka,5 wickets,2012
+Pakistan,206,Bangladesh,Pakistan,2 runs,2012
+West Indies,207,West Indies,Australia,42 runs,2012
+Australia,208,West Indies,Australia,30 runs,2012
+Pakistan,209,Sri Lanka,Pakistan,6 wickets,2012
+Sri Lanka,210,Sri Lanka,Pakistan,76 runs,2012
+Sri Lanka,211,Sri Lanka,Pakistan,44 runs,2012
+England,212,England,West Indies,114 runs,2012
+Sri Lanka,213,Sri Lanka,Pakistan,2 wickets,2012
+England,214,England,West Indies,8 wickets,2012
+England,215,England,Australia,15 runs,2012
+England,216,England,Australia,6 wickets,2012
+West Indies,217,West Indies,New Zealand,9 wickets,2012
+England,218,England,Australia,8 wickets,2012
+West Indies,219,West Indies,New Zealand,55 runs,2012
+England,220,England,Australia,7 wickets,2012
+New Zealand,221,West Indies,New Zealand,88 runs,2012
+West Indies,222,West Indies,New Zealand,24 runs,2012
+West Indies,223,West Indies,New Zealand,20 runs,2012
+India,224,Sri Lanka,India,21 runs,2012
+Sri Lanka,225,Sri Lanka,India,9 wickets,2012
+India,226,Sri Lanka,India,5 wickets,2012
+India,227,Sri Lanka,India,6 wickets,2012
+India,228,Sri Lanka,India,20 runs,2012
+Australia,229,Afghanistan,Australia,66 runs,2012
+South Africa,230,England,South Africa,80 runs,2012
+Australia,231,Australia,Pakistan,4 wickets,2012
+England,232,England,South Africa,4 wickets,2012
+Pakistan,233,Australia,Pakistan,7 wickets,2012
+England,234,England,South Africa,6 wickets,2012
+Australia,235,Australia,Pakistan,3 wickets,2012
+South Africa,236,England,South Africa,7 wickets,2012
+Sri Lanka,237,Sri Lanka,New Zealand,14 runs,2012
+Sri Lanka,238,Sri Lanka,New Zealand,7 wickets,2012
+Sri Lanka,239,Sri Lanka,New Zealand,7 wickets,2012
+Bangladesh,240,Bangladesh,West Indies,7 wickets,2012
+Bangladesh,241,Bangladesh,West Indies,160 runs,2012
+West Indies,242,Bangladesh,West Indies,4 wickets,2012
+West Indies,243,Bangladesh,West Indies,75 runs,2012
+Bangladesh,244,Bangladesh,West Indies,2 wickets,2012
+Pakistan,245,India,Pakistan,6 wickets,2012
+Pakistan,246,India,Pakistan,85 runs,2013
+India,247,India,Pakistan,10 runs,2013
+Australia,248,Australia,Sri Lanka,107 runs,2013
+England,249,India,England,9 runs,2013
+Sri Lanka,250,Australia,Sri Lanka,8 wickets,2013
+India,251,India,England,127 runs,2013
+Sri Lanka,252,Australia,Sri Lanka,4 wickets,2013
+India,253,India,England,7 wickets,2013
+New Zealand,254,South Africa,New Zealand,1 wicket,2013
+New Zealand,255,South Africa,New Zealand,27 runs,2013
+Australia,256,Australia,Sri Lanka,32 runs,2013
+India,257,India,England,5 wickets,2013
+South Africa,258,South Africa,New Zealand,1 wicket,2013
+England,259,India,England,7 wickets,2013
+Australia,260,Australia,West Indies,9 wickets,2013
+Australia,261,Australia,West Indies,54 runs,2013
+Australia,262,Australia,West Indies,39 runs,2013
+Australia,263,Australia,West Indies,5 wickets,2013
+Australia,264,Australia,West Indies,17 runs,2013
+New Zealand,265,New Zealand,England,3 wickets,2013
+England,266,New Zealand,England,8 wickets,2013
+England,267,New Zealand,England,5 wickets,2013
+South Africa,268,South Africa,Pakistan,125 runs,2013
+Pakistan,269,South Africa,Pakistan,6 wickets,2013
+South Africa,270,South Africa,Pakistan,34 runs,2013
+Pakistan,271,South Africa,Pakistan,3 wickets,2013
+Sri Lanka,272,Sri Lanka,Bangladesh,8 wickets,2013
+South Africa,273,South Africa,Pakistan,6 wickets,2013
+Bangladesh,274,Sri Lanka,Bangladesh,3 wickets,2013
+New Zealand,275,England,New Zealand,5 wickets,2013
+New Zealand,276,England,New Zealand,86 runs,2013
+England,277,England,New Zealand,34 runs,2013
+India,278,India,South Africa,26 runs,2013
+West Indies,279,Pakistan,West Indies,2 wickets,2013
+England,280,England,Australia,48 runs,2013
+New Zealand,281,New Zealand,Sri Lanka,1 wicket,2013
+South Africa,282,Pakistan,South Africa,67 runs,2013
+India,283,India,West Indies,8 wickets,2013
+Sri Lanka,284,England,Sri Lanka,7 wickets,2013
+India,285,India,Pakistan,8 wickets,2013
+England,286,England,New Zealand,10 runs,2013
+Sri Lanka,287,Australia,Sri Lanka,20 runs,2013
+England,288,England,South Africa,7 wickets,2013
+India,289,India,Sri Lanka,8 wickets,2013
+India,290,England,India,5 runs,2013
+West Indies,291,West Indies,Sri Lanka,6 wickets,2013
+West Indies,292,West Indies,India,1 wicket,2013
+Sri Lanka,293,India,Sri Lanka,161 runs,2013
+India,294,West Indies,India,102 runs,2013
+Sri Lanka,295,West Indies,Sri Lanka,39 runs,2013
+India,296,India,Sri Lanka,81 runs,2013
+India,297,India,Sri Lanka,1 wicket,2013
+Pakistan,298,West Indies,Pakistan,126 runs,2013
+West Indies,299,West Indies,Pakistan,37 runs,2013
+Sri Lanka,300,Sri Lanka,South Africa,180 runs,2013
+Pakistan,301,West Indies,Pakistan,6 wickets,2013
+Sri Lanka,302,Sri Lanka,South Africa,17 runs,2013
+Pakistan,303,West Indies,Pakistan,4 wickets,2013
+South Africa,304,Sri Lanka,South Africa,56 runs,2013
+Sri Lanka,305,Sri Lanka,South Africa,8 wickets,2013
+Sri Lanka,306,Sri Lanka,South Africa,128 runs,2013
+Australia,307,England,Australia,88 runs,2013
+England,308,England,Australia,3 wickets,2013
+Australia,309,England,Australia,49 runs,2013
+Australia,310,India,Australia,72 runs,2013
+India,311,India,Australia,9 wickets,2013
+Australia,312,India,Australia,4 wickets,2013
+Bangladesh,313,Bangladesh,New Zealand,43 runs,2013
+India,314,India,Australia,6 wickets,2013
+South Africa,315,Pakistan,South Africa,1 run,2013
+Bangladesh,316,Bangladesh,New Zealand,40 runs,2013
+Pakistan,317,Pakistan,South Africa,66 runs,2013
+India,318,India,Australia,57 runs,2013
+Bangladesh,319,Bangladesh,New Zealand,4 wickets,2013
+South Africa,320,Pakistan,South Africa,68 runs,2013
+South Africa,321,Pakistan,South Africa,28 runs,2013
+South Africa,322,Pakistan,South Africa,117 runs,2013
+New Zealand,323,Sri Lanka,New Zealand,4 wickets,2013
+Sri Lanka,324,Sri Lanka,New Zealand,36 runs,2013
+India,325,India,West Indies,6 wickets,2013
+West Indies,326,India,West Indies,2 wickets,2013
+Pakistan,327,South Africa,Pakistan,23 runs,2013
+India,328,India,West Indies,5 wickets,2013
+Pakistan,329,South Africa,Pakistan,1 run,2013
+South Africa,330,South Africa,Pakistan,4 wickets,2013
+South Africa,331,South Africa,India,141 runs,2013
+South Africa,332,South Africa,India,134 runs,2013
+Pakistan,333,Pakistan,Sri Lanka,11 runs,2013
+Sri Lanka,334,Pakistan,Sri Lanka,2 wickets,2013
+Pakistan,335,Pakistan,Sri Lanka,113 runs,2013
+Pakistan,336,Pakistan,Sri Lanka,8 wickets,2013
+West Indies,337,New Zealand,West Indies,2 wickets,2013
+Sri Lanka,338,Pakistan,Sri Lanka,2 wickets,2013
+New Zealand,339,New Zealand,West Indies,159 runs,2014
+New Zealand,340,New Zealand,West Indies,58 runs,2014
+West Indies,341,New Zealand,West Indies,203 runs,2014
+Australia,342,Australia,England,6 wickets,2014
+Australia,343,Australia,England,1 wicket,2014
+New Zealand,344,New Zealand,India,24 runs,2014
+Australia,345,Australia,England,7 wickets,2014
+New Zealand,346,New Zealand,India,15 runs,2014
+England,347,Australia,England,57 runs,2014
+Australia,348,Australia,England,5 runs,2014
+New Zealand,349,New Zealand,India,7 wickets,2014
+New Zealand,350,New Zealand,India,87 runs,2014
+Sri Lanka,351,Bangladesh,Sri Lanka,13 runs,2014
+Sri Lanka,352,Bangladesh,Sri Lanka,61 runs,2014
+Sri Lanka,353,Bangladesh,Sri Lanka,6 wickets,2014
+Sri Lanka,354,Pakistan,Sri Lanka,12 runs,2014
+India,355,Bangladesh,India,6 wickets,2014
+Pakistan,356,Afghanistan,Pakistan,72 runs,2014
+Sri Lanka,357,India,Sri Lanka,2 wickets,2014
+West Indies,358,West Indies,England,15 runs,2014
+Afghanistan,359,Bangladesh,Afghanistan,32 runs,2014
+Pakistan,360,India,Pakistan,1 wicket,2014
+England,361,West Indies,England,3 wickets,2014
+Sri Lanka,362,Afghanistan,Sri Lanka,129 runs,2014
+Pakistan,363,Bangladesh,Pakistan,3 wickets,2014
+India,364,Afghanistan,India,8 wickets,2014
+England,365,West Indies,England,25 runs,2014
+Sri Lanka,366,Bangladesh,Sri Lanka,3 wickets,2014
+Sri Lanka,367,Pakistan,Sri Lanka,5 wickets,2014
+England,368,England,Sri Lanka,81 runs,2014
+Sri Lanka,369,England,Sri Lanka,157 runs,2014
+England,370,England,Sri Lanka,10 wickets,2014
+Sri Lanka,371,England,Sri Lanka,7 runs,2014
+Sri Lanka,372,England,Sri Lanka,6 wickets,2014
+India,373,Bangladesh,India,7 wickets,2014
+India,374,Bangladesh,India,47 runs,2014
+South Africa,375,Sri Lanka,South Africa,75 runs,2014
+Sri Lanka,376,Sri Lanka,South Africa,87 runs,2014
+South Africa,377,Sri Lanka,South Africa,82 runs,2014
+West Indies,378,West Indies,Bangladesh,3 wickets,2014
+West Indies,379,West Indies,Bangladesh,177 runs,2014
+Pakistan,380,Sri Lanka,Pakistan,4 wickets,2014
+West Indies,381,West Indies,Bangladesh,91 runs,2014
+Sri Lanka,382,Sri Lanka,Pakistan,77 runs,2014
+South Africa,383,Australia,South Africa,7 wickets,2014
+India,384,England,India,133 runs,2014
+Sri Lanka,385,Sri Lanka,Pakistan,7 wickets,2014
+India,386,England,India,6 wickets,2014
+Australia,387,Australia,South Africa,62 runs,2014
+India,388,England,India,9 wickets,2014
+England,389,England,India,41 runs,2014
+South Africa,390,Australia,South Africa,6 wickets,2014
+Australia,391,Australia,Pakistan,93 runs,2014
+West Indies,392,India,West Indies,124 runs,2014
+Australia,393,Australia,Pakistan,5 wickets,2014
+India,394,India,West Indies,48 runs,2014
+Australia,395,Australia,Pakistan,1 run,2014
+India,396,India,West Indies,59 runs,2014
+South Africa,397,New Zealand,South Africa,6 wickets,2014
+South Africa,398,New Zealand,South Africa,72 runs,2014
+India,399,India,Sri Lanka,169 runs,2014
+India,400,India,Sri Lanka,6 wickets,2014
+India,401,India,Sri Lanka,6 wickets,2014
+India,402,India,Sri Lanka,153 runs,2014
+Australia,403,Australia,South Africa,32 runs,2014
+South Africa,404,Australia,South Africa,3 wickets,2014
+India,405,India,Sri Lanka,3 wickets,2014
+Australia,406,Australia,South Africa,73 runs,2014
+Australia,407,Australia,South Africa,3 wickets,2014
+Australia,408,Australia,South Africa,2 wickets,2014
+Sri Lanka,409,Sri Lanka,England,25 runs,2014
+Sri Lanka,410,Sri Lanka,England,8 wickets,2014
+England,411,Sri Lanka,England,5 wickets,2014
+Sri Lanka,412,Sri Lanka,England,6 wickets,2014
+Pakistan,413,New Zealand,Pakistan,3 wickets,2014
+England,414,Sri Lanka,England,5 wickets,2014
+New Zealand,415,New Zealand,Pakistan,4 wickets,2014
+Sri Lanka,416,Sri Lanka,England,90 runs,2014
+Pakistan,417,New Zealand,Pakistan,147 runs,2014
+Sri Lanka,418,Sri Lanka,England,87 runs,2014
+New Zealand,419,New Zealand,Pakistan,7 runs,2014
+New Zealand,420,New Zealand,Pakistan,68 runs,2014
+New Zealand,421,New Zealand,Sri Lanka,3 wickets,2015
+Sri Lanka,422,New Zealand,Sri Lanka,6 wickets,2015
+Australia,423,Australia,England,3 wickets,2015
+South Africa,424,South Africa,West Indies,61 runs,2015
+Australia,425,Australia,India,4 wickets,2015
+South Africa,426,South Africa,West Indies,148 runs,2015
+New Zealand,427,New Zealand,Sri Lanka,4 wickets,2015
+England,428,England,India,9 wickets,2015
+South Africa,429,South Africa,West Indies,9 wickets,2015
+New Zealand,430,New Zealand,Sri Lanka,108 runs,2015
+Australia,431,Australia,England,3 wickets,2015
+New Zealand,432,New Zealand,Sri Lanka,120 runs,2015
+West Indies,433,South Africa,West Indies,1 wicket,2015
+South Africa,434,South Africa,West Indies,131 runs,2015
+Sri Lanka,435,New Zealand,Sri Lanka,34 runs,2015
+England,436,England,India,3 wickets,2015
+New Zealand,437,New Zealand,Pakistan,7 wickets,2015
+Australia,438,Australia,England,112 runs,2015
+New Zealand,439,New Zealand,Pakistan,119 runs,2015
+New Zealand,440,New Zealand,Sri Lanka,98 runs,2015
+Australia,441,Australia,England,111 runs,2015
+India,442,India,Pakistan,76 runs,2015
+Bangladesh,443,Afghanistan,Bangladesh,105 runs,2015
+New Zealand,444,New Zealand,England,8 wickets,2015
+West Indies,445,Pakistan,West Indies,150 runs,2015
+Sri Lanka,446,Afghanistan,Sri Lanka,4 wickets,2015
+India,447,India,South Africa,130 runs,2015
+Sri Lanka,448,Bangladesh,Sri Lanka,92 runs,2015
+South Africa,449,South Africa,West Indies,257 runs,2015
+New Zealand,450,New Zealand,Australia,1 wicket,2015
+Sri Lanka,451,England,Sri Lanka,9 wickets,2015
+Australia,452,Australia,Afghanistan,275 runs,2015
+India,453,India,West Indies,4 wickets,2015
+Pakistan,454,Pakistan,South Africa,29 runs,2015
+New Zealand,455,New Zealand,Afghanistan,6 wickets,2015
+Australia,456,Australia,Sri Lanka,64 runs,2015
+Bangladesh,457,Bangladesh,England,15 runs,2015
+New Zealand,458,New Zealand,Bangladesh,3 wickets,2015
+England,459,Afghanistan,England,9 wickets,2015
+South Africa,460,South Africa,Sri Lanka,9 wickets,2015
+India,461,Bangladesh,India,109 runs,2015
+Australia,462,Australia,Pakistan,6 wickets,2015
+New Zealand,463,New Zealand,West Indies,143 runs,2015
+New Zealand,464,New Zealand,South Africa,4 wickets,2015
+Australia,465,Australia,India,95 runs,2015
+Australia,466,Australia,New Zealand,7 wickets,2015
+Bangladesh,467,Bangladesh,Pakistan,79 runs,2015
+Bangladesh,468,Bangladesh,Pakistan,7 wickets,2015
+Bangladesh,469,Bangladesh,Pakistan,8 wickets,2015
+England,470,England,New Zealand,210 runs,2015
+New Zealand,471,England,New Zealand,13 runs,2015
+New Zealand,472,England,New Zealand,3 wickets,2015
+England,473,England,New Zealand,7 wickets,2015
+Bangladesh,474,Bangladesh,India,79 runs,2015
+England,475,England,New Zealand,3 wickets,2015
+Bangladesh,476,Bangladesh,India,6 wickets,2015
+India,477,Bangladesh,India,77 runs,2015
+South Africa,478,Bangladesh,South Africa,8 wickets,2015
+Pakistan,479,Sri Lanka,Pakistan,6 wickets,2015
+Bangladesh,480,Bangladesh,South Africa,7 wickets,2015
+Bangladesh,481,Bangladesh,South Africa,9 wickets,2015
+Sri Lanka,482,Sri Lanka,Pakistan,2 wickets,2015
+Pakistan,483,Sri Lanka,Pakistan,135 runs,2015
+Pakistan,484,Sri Lanka,Pakistan,7 wickets,2015
+Sri Lanka,485,Sri Lanka,Pakistan,165 runs,2015
+South Africa,486,South Africa,New Zealand,20 runs,2015
+New Zealand,487,South Africa,New Zealand,8 wickets,2015
+South Africa,488,South Africa,New Zealand,62 runs,2015
+Australia,489,England,Australia,59 runs,2015
+Australia,490,England,Australia,64 runs,2015
+England,491,England,Australia,93 runs,2015
+England,492,England,Australia,3 wickets,2015
+Australia,493,England,Australia,8 wickets,2015
+South Africa,494,India,South Africa,5 runs,2015
+India,495,India,South Africa,22 runs,2015
+South Africa,496,India,South Africa,18 runs,2015
+India,497,India,South Africa,35 runs,2015
+South Africa,498,India,South Africa,214 runs,2015
+Sri Lanka,499,Sri Lanka,West Indies,1 wicket,2015
+Sri Lanka,500,Sri Lanka,West Indies,8 wickets,2015
+Sri Lanka,501,Sri Lanka,West Indies,19 runs,2015
+Pakistan,502,England,Pakistan,6 wickets,2015
+England,503,England,Pakistan,95 runs,2015
+England,504,England,Pakistan,6 wickets,2015
+England,505,England,Pakistan,84 runs,2015
+New Zealand,506,New Zealand,Sri Lanka,7 wickets,2015
+New Zealand,507,New Zealand,Sri Lanka,10 wickets,2015
+Sri Lanka,508,New Zealand,Sri Lanka,8 wickets,2015
+New Zealand,509,New Zealand,Sri Lanka,36 runs,2016
+Australia,510,Australia,India,5 wickets,2016
+Australia,511,Australia,India,7 wickets,2016
+Australia,512,Australia,India,3 wickets,2016
+Australia,513,Australia,India,25 runs,2016
+India,514,Australia,India,6 wickets,2016
+New Zealand,515,New Zealand,Pakistan,70 runs,2016
+New Zealand,516,New Zealand,Pakistan,3 wickets,2016
+New Zealand,517,New Zealand,Australia,159 runs,2016
+England,518,South Africa,England,39 runs,2016
+Australia,519,New Zealand,Australia,4 wickets,2016
+England,520,South Africa,England,5 wickets,2016
+New Zealand,521,New Zealand,Australia,55 runs,2016
+South Africa,522,South Africa,England,7 wickets,2016
+South Africa,523,South Africa,England,1 wicket,2016
+South Africa,524,South Africa,England,5 wickets,2016
+West Indies,525,West Indies,South Africa,4 wickets,2016
+Australia,526,West Indies,Australia,6 wickets,2016
+South Africa,527,Australia,South Africa,47 runs,2016
+Australia,528,Australia,South Africa,36 runs,2016
+West Indies,529,West Indies,Australia,4 wickets,2016
+South Africa,530,West Indies,South Africa,139 runs,2016
+Australia,531,West Indies,Australia,6 wickets,2016
+England,532,England,Sri Lanka,10 wickets,2016
+West Indies,533,West Indies,South Africa,100 runs,2016
+Australia,534,West Indies,Australia,58 runs,2016
+England,535,England,Sri Lanka,6 wickets,2016
+England,536,England,Sri Lanka,122 runs,2016
+Australia,537,Sri Lanka,Australia,3 wickets,2016
+Sri Lanka,538,Sri Lanka,Australia,82 runs,2016
+England,539,England,Pakistan,44 runs,2016
+England,540,England,Pakistan,4 wickets,2016
+Australia,541,Sri Lanka,Australia,2 wickets,2016
+England,542,England,Pakistan,169 runs,2016
+Australia,543,Sri Lanka,Australia,6 wickets,2016
+England,544,England,Pakistan,4 wickets,2016
+Australia,545,Sri Lanka,Australia,5 wickets,2016
+Pakistan,546,England,Pakistan,4 wickets,2016
+Bangladesh,547,Bangladesh,Afghanistan,7 runs,2016
+Afghanistan,548,Bangladesh,Afghanistan,2 wickets,2016
+Pakistan,549,Pakistan,West Indies,111 runs,2016
+South Africa,550,South Africa,Australia,6 wickets,2016
+Bangladesh,551,Bangladesh,Afghanistan,141 runs,2016
+South Africa,552,South Africa,Australia,142 runs,2016
+Pakistan,553,Pakistan,West Indies,59 runs,2016
+Pakistan,554,Pakistan,West Indies,136 runs,2016
+South Africa,555,South Africa,Australia,4 wickets,2016
+England,556,Bangladesh,England,21 runs,2016
+South Africa,557,South Africa,Australia,6 wickets,2016
+Bangladesh,558,Bangladesh,England,34 runs,2016
+England,559,Bangladesh,England,4 wickets,2016
+South Africa,560,South Africa,Australia,31 runs,2016
+India,561,India,New Zealand,6 wickets,2016
+New Zealand,562,India,New Zealand,6 runs,2016
+India,563,India,New Zealand,7 wickets,2016
+New Zealand,564,India,New Zealand,19 runs,2016
+India,565,India,New Zealand,190 runs,2016
+West Indies,566,Sri Lanka,West Indies,62 runs,2016
+Sri Lanka,567,Sri Lanka,West Indies,1 run,2016
+Australia,568,Australia,New Zealand,68 runs,2016
+Australia,569,Australia,New Zealand,116 runs,2016
+Australia,570,Australia,New Zealand,117 runs,2016
+New Zealand,571,New Zealand,Bangladesh,77 runs,2016
+New Zealand,572,New Zealand,Bangladesh,67 runs,2016
+New Zealand,573,New Zealand,Bangladesh,8 wickets,2016
+Australia,574,Australia,Pakistan,92 runs,2017
+Pakistan,575,Australia,Pakistan,6 wickets,2017
+India,576,India,England,3 wickets,2017
+Australia,577,Australia,Pakistan,7 wickets,2017
+India,578,India,England,15 runs,2017
+Australia,579,Australia,Pakistan,86 runs,2017
+England,580,India,England,5 runs,2017
+Australia,581,Australia,Pakistan,57 runs,2017
+South Africa,582,South Africa,Sri Lanka,8 wickets,2017
+New Zealand,583,New Zealand,Australia,6 runs,2017
+South Africa,584,South Africa,Sri Lanka,121 runs,2017
+South Africa,585,South Africa,Sri Lanka,7 wickets,2017
+New Zealand,586,New Zealand,Australia,24 runs,2017
+South Africa,587,South Africa,Sri Lanka,40 runs,2017
+South Africa,588,South Africa,Sri Lanka,88 runs,2017
+South Africa,589,New Zealand,South Africa,4 wickets,2017
+New Zealand,590,New Zealand,South Africa,6 runs,2017
+South Africa,591,New Zealand,South Africa,159 runs,2017
+New Zealand,592,New Zealand,South Africa,7 wickets,2017
+England,593,West Indies,England,45 runs,2017
+South Africa,594,New Zealand,South Africa,6 wickets,2017
+England,595,West Indies,England,4 wickets,2017
+England,596,West Indies,England,186 runs,2017
+Bangladesh,597,Sri Lanka,Bangladesh,90 runs,2017
+Sri Lanka,598,Sri Lanka,Bangladesh,70 runs,2017
+West Indies,599,West Indies,Pakistan,4 wickets,2017
+Pakistan,600,West Indies,Pakistan,74 runs,2017
+Pakistan,601,West Indies,Pakistan,6 wickets,2017
+New Zealand,602,Bangladesh,New Zealand,4 wickets,2017
+Bangladesh,603,Bangladesh,New Zealand,5 wickets,2017
+England,604,England,South Africa,72 runs,2017
+England,605,England,South Africa,2 runs,2017
+South Africa,606,England,South Africa,7 wickets,2017
+England,607,England,Bangladesh,8 wickets,2017
+South Africa,608,South Africa,Sri Lanka,96 runs,2017
+India,609,India,Pakistan,124 runs,2017
+England,610,England,New Zealand,87 runs,2017
+Pakistan,611,Pakistan,South Africa,19 runs,2017
+Sri Lanka,612,India,Sri Lanka,7 wickets,2017
+Bangladesh,613,Bangladesh,New Zealand,5 wickets,2017
+Afghanistan,614,West Indies,Afghanistan,63 runs,2017
+England,615,England,Australia,40 runs,2017
+India,616,India,South Africa,8 wickets,2017
+West Indies,617,West Indies,Afghanistan,4 wickets,2017
+Pakistan,618,Pakistan,Sri Lanka,3 wickets,2017
+Pakistan,619,England,Pakistan,8 wickets,2017
+India,620,Bangladesh,India,9 wickets,2017
+Pakistan,621,India,Pakistan,180 runs,2017
+India,622,West Indies,India,105 runs,2017
+India,623,West Indies,India,93 runs,2017
+West Indies,624,West Indies,India,11 runs,2017
+India,625,West Indies,India,8 wickets,2017
+India,626,Sri Lanka,India,9 wickets,2017
+India,627,Sri Lanka,India,3 wickets,2017
+India,628,Sri Lanka,India,6 wickets,2017
+India,629,Sri Lanka,India,168 runs,2017
+India,630,Sri Lanka,India,6 wickets,2017
+India,631,India,Australia,26 runs,2017
+England,632,England,West Indies,7 wickets,2017
+India,633,India,Australia,50 runs,2017
+India,634,India,Australia,5 wickets,2017
+England,635,England,West Indies,124 runs,2017
+England,636,England,West Indies,6 runs,2017
+Australia,637,India,Australia,21 runs,2017
+England,638,England,West Indies,9 wickets,2017
+India,639,India,Australia,7 wickets,2017
+Pakistan,640,Pakistan,Sri Lanka,83 runs,2017
+South Africa,641,South Africa,Bangladesh,10 wickets,2017
+Pakistan,642,Pakistan,Sri Lanka,32 runs,2017
+South Africa,643,South Africa,Bangladesh,104 runs,2017
+Pakistan,644,Pakistan,Sri Lanka,7 wickets,2017
+Pakistan,645,Pakistan,Sri Lanka,7 wickets,2017
+New Zealand,646,India,New Zealand,6 wickets,2017
+South Africa,647,South Africa,Bangladesh,200 runs,2017
+Pakistan,648,Pakistan,Sri Lanka,9 wickets,2017
+India,649,India,New Zealand,6 wickets,2017
+India,650,India,New Zealand,6 runs,2017

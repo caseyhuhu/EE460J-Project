@@ -1,0 +1,311 @@
+Margin,Winner,Team1,Team2,Year,WinRateVsTeam,T1WinRate,T2WinRate,WinByWickets
+7,Sri Lanka,Bangladesh,Sri Lanka,2010,0.5,0.5,0.5,1
+5,Sri Lanka,India,Sri Lanka,2010,0.5,0.5,1,1
+6,India,Bangladesh,India,2010,0.5,0,0,1
+9,Sri Lanka,Bangladesh,Sri Lanka,2010,0,0,1,1
+8,India,India,Sri Lanka,2010,0,0.5,1,1
+6,India,Bangladesh,India,2010,0,0,0.67,1
+4,Sri Lanka,India,Sri Lanka,2010,0.5,0.75,0.75,1
+5,Australia,Australia,Pakistan,2010,0.5,0.5,0.5,1
+2,Australia,Australia,Pakistan,2010,1,1,0,1
+5,New Zealand,New Zealand,Bangladesh,2010,1,1,0,1
+8,Australia,Australia,West Indies,2010,1,1,0,1
+3,New Zealand,New Zealand,Bangladesh,2010,1,1,0,1
+6,England,Bangladesh,England,2010,0.5,0,0.5,1
+2,England,Bangladesh,England,2010,0,0,1,1
+2,New Zealand,New Zealand,Australia,2010,0.5,1,1,1
+6,Australia,New Zealand,Australia,2010,0.5,0.8,0.91,1
+6,Australia,New Zealand,Australia,2010,0.33,0.67,0.92,1
+7,India,India,Sri Lanka,2010,0.33,0.62,0.8,1
+7,South Africa,West Indies,South Africa,2010,0,0,0.67,1
+6,Sri Lanka,India,Sri Lanka,2010,0.5,0.67,0.67,1
+6,India,Bangladesh,India,2010,0,0,0.6,1
+3,India,India,Pakistan,2010,0.5,0.64,0,1
+7,Sri Lanka,Sri Lanka,India,2010,0.6,0.78,0.67,1
+4,England,England,Australia,2010,0.5,1,0.86,1
+4,England,England,Australia,2010,1,1,0.8,1
+6,England,England,Bangladesh,2010,1,0.75,0,1
+3,Sri Lanka,Sri Lanka,New Zealand,2010,0.5,0.73,0.67,1
+6,India,Sri Lanka,India,2010,0.57,0.75,0.6,1
+8,Sri Lanka,Sri Lanka,India,2010,0.5,0.69,0.62,1
+4,England,England,Pakistan,2010,1,0.75,0.11,1
+7,Bangladesh,Bangladesh,New Zealand,2010,0.25,0.12,0.5,1
+5,India,India,Australia,2010,0.5,0.58,0.74,1
+8,South Africa,Pakistan,South Africa,2010,0.5,0.23,0.75,1
+8,Australia,Australia,Sri Lanka,2010,0,0.64,0.76,1
+8,India,India,New Zealand,2010,0.67,0.62,0.38,1
+9,India,India,New Zealand,2010,0.75,0.64,0.35,1
+5,India,India,New Zealand,2010,0.8,0.65,0.33,1
+8,India,India,New Zealand,2010,0.83,0.67,0.32,1
+6,Australia,Australia,England,2011,0.4,0.65,0.69,1
+2,India,South Africa,India,2011,0.43,0.65,0.66,1
+9,New Zealand,New Zealand,Pakistan,2011,0.5,0.3,0.28,1
+4,Australia,Australia,England,2011,0.67,0.7,0.55,1
+2,Pakistan,New Zealand,Pakistan,2011,0.5,0.33,0.32,1
+2,Australia,Australia,England,2011,0.67,0.7,0.5,1
+8,Sri Lanka,Sri Lanka,West Indies,2011,0.5,0.72,0,1
+7,South Africa,South Africa,West Indies,2011,1,0.65,0,1
+7,Australia,Australia,New Zealand,2011,0.6,0.73,0.33,1
+9,West Indies,Bangladesh,West Indies,2011,0.5,0.23,0,1
+2,Bangladesh,Bangladesh,England,2011,0.17,0.21,0.47,1
+3,South Africa,India,South Africa,2011,0.46,0.62,0.63,1
+4,Pakistan,Australia,Pakistan,2011,1,0.74,0.41,1
+10,Pakistan,Pakistan,West Indies,2011,0.5,0.44,0.1,1
+5,India,India,Australia,2011,1,0.61,0.71,1
+10,Sri Lanka,Sri Lanka,England,2011,0.5,0.73,0.47,1
+5,Sri Lanka,Sri Lanka,New Zealand,2011,1,0.75,0.37,1
+6,India,India,Sri Lanka,2011,0.4,0.64,0.77,1
+9,Australia,Bangladesh,Australia,2011,0,0.23,0.69,1
+8,Pakistan,West Indies,Pakistan,2011,0,0.09,0.45,1
+7,Pakistan,West Indies,Pakistan,2011,0,0.08,0.48,1
+3,Pakistan,West Indies,Pakistan,2011,0,0.07,0.5,1
+10,West Indies,West Indies,Pakistan,2011,0.2,0.13,0.5,1
+4,India,West Indies,India,2011,0,0.18,0.66,1
+7,India,West Indies,India,2011,0,0.17,0.67,1
+3,India,West Indies,India,2011,0,0.16,0.69,1
+7,West Indies,West Indies,India,2011,0.2,0.2,0.67,1
+6,Sri Lanka,England,Sri Lanka,2011,0.33,0.45,0.69,1
+10,England,England,Sri Lanka,2011,0.25,0.43,0.71,1
+7,Australia,Sri Lanka,Australia,2011,0.67,0.64,0.71,1
+8,Australia,Sri Lanka,Australia,2011,0.4,0.61,0.73,1
+5,Australia,Sri Lanka,Australia,2011,0.44,0.6,0.71,1
+4,Sri Lanka,Sri Lanka,Australia,2011,0.36,0.58,0.72,1
+7,England,England,India,2011,0.5,0.48,0.65,1
+3,England,England,India,2011,1,0.5,0.63,1
+6,England,England,India,2011,1,0.52,0.61,1
+8,West Indies,Bangladesh,West Indies,2011,0,0.19,0.27,1
+8,India,India,England,2011,0.25,0.6,0.52,1
+8,Bangladesh,Bangladesh,West Indies,2011,0,0.18,0.3,1
+5,India,India,England,2011,0.4,0.61,0.5,1
+6,India,India,England,2011,0.5,0.62,0.48,1
+3,Australia,South Africa,Australia,2011,0.5,0.62,0.68,1
+8,Pakistan,Pakistan,Sri Lanka,2011,0.67,0.48,0.6,1
+3,Pakistan,Pakistan,Sri Lanka,2011,0.73,0.52,0.55,1
+5,Pakistan,Bangladesh,Pakistan,2011,0,0.22,0.53,1
+5,India,India,West Indies,2011,0.71,0.65,0.27,1
+5,South Africa,South Africa,Sri Lanka,2012,1,0.62,0.51,1
+5,Sri Lanka,South Africa,Sri Lanka,2012,1,0.67,0.46,1
+2,Sri Lanka,South Africa,Sri Lanka,2012,0.75,0.63,0.49,1
+4,India,India,Sri Lanka,2012,0.5,0.64,0.51,1
+7,Pakistan,Afghanistan,Pakistan,2012,0.5,0.5,0.58,1
+4,India,Australia,India,2012,0.5,0.72,0.65,1
+8,Sri Lanka,Australia,Sri Lanka,2012,0.62,0.69,0.47,1
+9,England,England,Pakistan,2012,0.82,0.5,0.55,1
+4,England,England,Pakistan,2012,0.86,0.52,0.53,1
+3,Sri Lanka,Australia,Sri Lanka,2012,0.53,0.68,0.51,1
+6,South Africa,New Zealand,South Africa,2012,1,0.35,0.59,1
+7,India,India,Sri Lanka,2012,0.5,0.6,0.52,1
+6,South Africa,New Zealand,South Africa,2012,0.4,0.33,0.61,1
+5,South Africa,New Zealand,South Africa,2012,0.25,0.3,0.63,1
+8,Sri Lanka,Australia,Sri Lanka,2012,0.46,0.65,0.5,1
+6,Pakistan,Pakistan,Sri Lanka,2012,0.77,0.52,0.49,1
+5,Bangladesh,Bangladesh,India,2012,0,0.18,0.63,1
+6,India,India,Pakistan,2012,1,0.61,0.54,1
+5,West Indies,West Indies,Australia,2012,0,0.26,0.65,1
+5,Bangladesh,Bangladesh,Sri Lanka,2012,0,0.23,0.48,1
+6,Pakistan,Sri Lanka,Pakistan,2012,0.19,0.47,0.54,1
+2,Sri Lanka,Sri Lanka,Pakistan,2012,0.36,0.48,0.52,1
+8,England,England,West Indies,2012,1,0.56,0.3,1
+6,England,England,Australia,2012,0.36,0.59,0.61,1
+9,West Indies,West Indies,New Zealand,2012,0.5,0.29,0.29,1
+8,England,England,Australia,2012,0.44,0.6,0.59,1
+7,England,England,Australia,2012,0.5,0.62,0.58,1
+9,Sri Lanka,Sri Lanka,India,2012,0.33,0.48,0.63,1
+5,India,Sri Lanka,India,2012,0.4,0.49,0.61,1
+6,India,Sri Lanka,India,2012,0.36,0.48,0.62,1
+4,Australia,Australia,Pakistan,2012,0.71,0.58,0.5,1
+4,England,England,South Africa,2012,0.4,0.61,0.67,1
+7,Pakistan,Australia,Pakistan,2012,0.8,0.59,0.49,1
+6,England,England,South Africa,2012,0.62,0.62,0.64,1
+3,Australia,Australia,Pakistan,2012,0.62,0.57,0.5,1
+7,South Africa,England,South Africa,2012,0.73,0.63,0.61,1
+7,Sri Lanka,Sri Lanka,New Zealand,2012,1,0.47,0.25,1
+7,Sri Lanka,Sri Lanka,New Zealand,2012,1,0.48,0.24,1
+7,Bangladesh,Bangladesh,West Indies,2012,0.25,0.26,0.37,1
+4,West Indies,Bangladesh,West Indies,2012,0.57,0.33,0.35,1
+2,Bangladesh,Bangladesh,West Indies,2012,0.4,0.3,0.38,1
+6,Pakistan,India,Pakistan,2012,1,0.64,0.49,1
+8,Sri Lanka,Australia,Sri Lanka,2013,0.53,0.59,0.48,1
+4,Sri Lanka,Australia,Sri Lanka,2013,0.48,0.58,0.49,1
+7,India,India,England,2013,0.58,0.61,0.61,1
+5,India,India,England,2013,0.64,0.62,0.58,1
+7,England,India,England,2013,0.69,0.63,0.57,1
+9,Australia,Australia,West Indies,2013,0.62,0.57,0.37,1
+5,Australia,Australia,West Indies,2013,0.79,0.6,0.34,1
+3,New Zealand,New Zealand,England,2013,0.5,0.29,0.58,1
+8,England,New Zealand,England,2013,1,0.33,0.56,1
+5,England,New Zealand,England,2013,0.5,0.31,0.57,1
+6,Pakistan,South Africa,Pakistan,2013,0.78,0.6,0.49,1
+3,Pakistan,South Africa,Pakistan,2013,0.65,0.6,0.49,1
+8,Sri Lanka,Sri Lanka,Bangladesh,2013,0.5,0.49,0.33,1
+6,South Africa,South Africa,Pakistan,2013,0.52,0.57,0.5,1
+3,Bangladesh,Sri Lanka,Bangladesh,2013,0.7,0.51,0.31,1
+5,New Zealand,England,New Zealand,2013,0.67,0.59,0.3,1
+2,West Indies,Pakistan,West Indies,2013,0.67,0.49,0.31,1
+8,India,India,West Indies,2013,0.73,0.63,0.34,1
+7,Sri Lanka,England,Sri Lanka,2013,0.5,0.58,0.48,1
+8,India,India,Pakistan,2013,0.59,0.63,0.46,1
+7,England,England,South Africa,2013,0.57,0.57,0.58,1
+8,India,India,Sri Lanka,2013,0.69,0.64,0.51,1
+6,West Indies,West Indies,Sri Lanka,2013,0,0.33,0.49,1
+6,Pakistan,West Indies,Pakistan,2013,0.5,0.35,0.45,1
+4,Pakistan,West Indies,Pakistan,2013,0.43,0.34,0.47,1
+8,Sri Lanka,Sri Lanka,South Africa,2013,0.52,0.5,0.54,1
+3,England,England,Australia,2013,0.54,0.56,0.6,1
+9,India,India,Australia,2013,0.32,0.64,0.61,1
+4,Australia,India,Australia,2013,0.43,0.65,0.6,1
+6,India,India,Australia,2013,0.37,0.64,0.6,1
+4,Bangladesh,Bangladesh,New Zealand,2013,0.8,0.4,0.33,1
+4,New Zealand,Sri Lanka,New Zealand,2013,0.78,0.51,0.32,1
+6,India,India,West Indies,2013,0.71,0.65,0.34,1
+2,West Indies,India,West Indies,2013,0.74,0.65,0.33,1
+5,India,India,West Indies,2013,0.67,0.64,0.34,1
+4,South Africa,South Africa,Pakistan,2013,0.61,0.52,0.47,1
+2,Sri Lanka,Pakistan,Sri Lanka,2013,0.62,0.47,0.5,1
+8,Pakistan,Pakistan,Sri Lanka,2013,0.6,0.47,0.5,1
+2,West Indies,New Zealand,West Indies,2013,0.2,0.33,0.34,1
+2,Sri Lanka,Pakistan,Sri Lanka,2013,0.64,0.48,0.5,1
+6,Australia,Australia,England,2014,0.47,0.58,0.55,1
+7,Australia,Australia,England,2014,0.56,0.6,0.53,1
+7,New Zealand,New Zealand,India,2014,0.65,0.39,0.6,1
+6,Sri Lanka,Bangladesh,Sri Lanka,2014,0.29,0.39,0.52,1
+6,India,Bangladesh,India,2014,0.38,0.37,0.58,1
+2,Sri Lanka,India,Sri Lanka,2014,0.71,0.59,0.54,1
+3,England,West Indies,England,2014,0.38,0.36,0.5,1
+3,Pakistan,Bangladesh,Pakistan,2014,0,0.34,0.49,1
+8,India,Afghanistan,India,2014,0.5,0.24,0.57,1
+3,Sri Lanka,Bangladesh,Sri Lanka,2014,0.24,0.33,0.56,1
+5,Sri Lanka,Pakistan,Sri Lanka,2014,0.53,0.5,0.56,1
+10,England,England,Sri Lanka,2014,0.42,0.52,0.57,1
+6,Sri Lanka,England,Sri Lanka,2014,0.44,0.52,0.57,1
+7,India,Bangladesh,India,2014,0.23,0.31,0.57,1
+3,West Indies,West Indies,Bangladesh,2014,0.52,0.35,0.29,1
+4,Pakistan,Sri Lanka,Pakistan,2014,0.52,0.56,0.49,1
+7,South Africa,Australia,South Africa,2014,0.67,0.6,0.56,1
+7,Sri Lanka,Sri Lanka,Pakistan,2014,0.51,0.56,0.49,1
+6,India,England,India,2014,0.31,0.5,0.6,1
+9,India,England,India,2014,0.28,0.49,0.6,1
+6,South Africa,Australia,South Africa,2014,0.56,0.6,0.56,1
+5,Australia,Australia,Pakistan,2014,0.76,0.6,0.47,1
+6,South Africa,New Zealand,South Africa,2014,0.43,0.43,0.57,1
+6,India,India,Sri Lanka,2014,0.68,0.61,0.56,1
+6,India,India,Sri Lanka,2014,0.7,0.61,0.55,1
+3,South Africa,Australia,South Africa,2014,0.54,0.62,0.58,1
+3,India,India,Sri Lanka,2014,0.74,0.62,0.54,1
+3,Australia,Australia,South Africa,2014,0.53,0.61,0.57,1
+2,Australia,Australia,South Africa,2014,0.59,0.62,0.56,1
+8,Sri Lanka,Sri Lanka,England,2014,0.65,0.54,0.48,1
+5,England,Sri Lanka,England,2014,0.69,0.54,0.47,1
+6,Sri Lanka,Sri Lanka,England,2014,0.62,0.53,0.48,1
+3,Pakistan,New Zealand,Pakistan,2014,0.5,0.4,0.45,1
+5,England,Sri Lanka,England,2014,0.66,0.54,0.47,1
+4,New Zealand,New Zealand,Pakistan,2014,0.35,0.39,0.46,1
+3,New Zealand,New Zealand,Sri Lanka,2015,0.31,0.43,0.54,1
+6,Sri Lanka,New Zealand,Sri Lanka,2015,0.44,0.44,0.54,1
+3,Australia,Australia,England,2015,0.58,0.63,0.47,1
+4,Australia,Australia,India,2015,0.49,0.64,0.63,1
+4,New Zealand,New Zealand,Sri Lanka,2015,0.37,0.43,0.54,1
+9,England,England,India,2015,0.32,0.46,0.62,1
+9,South Africa,South Africa,West Indies,2015,1,0.57,0.37,1
+3,Australia,Australia,England,2015,0.62,0.64,0.47,1
+3,England,England,India,2015,0.38,0.46,0.61,1
+7,New Zealand,New Zealand,Pakistan,2015,0.57,0.46,0.45,1
+8,New Zealand,New Zealand,England,2015,0.43,0.5,0.45,1
+4,Sri Lanka,Afghanistan,Sri Lanka,2015,0,0.16,0.52,1
+9,Sri Lanka,England,Sri Lanka,2015,0.34,0.44,0.53,1
+4,India,India,West Indies,2015,0.69,0.61,0.37,1
+6,New Zealand,New Zealand,Afghanistan,2015,0.5,0.52,0.11,1
+3,New Zealand,New Zealand,Bangladesh,2015,0.16,0.53,0.3,1
+9,England,Afghanistan,England,2015,0.5,0.1,0.43,1
+9,South Africa,South Africa,Sri Lanka,2015,0.46,0.56,0.53,1
+6,Australia,Australia,Pakistan,2015,0.84,0.66,0.43,1
+4,New Zealand,New Zealand,South Africa,2015,0.3,0.55,0.57,1
+7,Australia,Australia,New Zealand,2015,0.38,0.67,0.56,1
+7,Bangladesh,Bangladesh,Pakistan,2015,0.25,0.31,0.41,1
+8,Bangladesh,Bangladesh,Pakistan,2015,0.4,0.33,0.4,1
+3,New Zealand,England,New Zealand,2015,0.48,0.44,0.55,1
+7,England,England,New Zealand,2015,0.42,0.43,0.55,1
+3,England,England,New Zealand,2015,0.48,0.44,0.54,1
+6,Bangladesh,Bangladesh,India,2015,0.26,0.37,0.61,1
+8,South Africa,Bangladesh,South Africa,2015,0,0.37,0.56,1
+6,Pakistan,Sri Lanka,Pakistan,2015,0.55,0.53,0.4,1
+7,Bangladesh,Bangladesh,South Africa,2015,0,0.36,0.57,1
+9,Bangladesh,Bangladesh,South Africa,2015,0.43,0.38,0.56,1
+2,Sri Lanka,Sri Lanka,Pakistan,2015,0.51,0.52,0.41,1
+7,Pakistan,Sri Lanka,Pakistan,2015,0.51,0.52,0.41,1
+8,New Zealand,South Africa,New Zealand,2015,0.64,0.55,0.52,1
+3,England,England,Australia,2015,0.32,0.45,0.68,1
+8,Australia,England,Australia,2015,0.35,0.45,0.67,1
+8,Sri Lanka,Sri Lanka,West Indies,2015,0.78,0.52,0.35,1
+6,Pakistan,England,Pakistan,2015,0.88,0.45,0.41,1
+6,England,England,Pakistan,2015,0.72,0.45,0.42,1
+7,New Zealand,New Zealand,Sri Lanka,2015,0.56,0.52,0.53,1
+10,New Zealand,New Zealand,Sri Lanka,2015,0.59,0.53,0.53,1
+8,Sri Lanka,New Zealand,Sri Lanka,2015,0.62,0.54,0.52,1
+5,Australia,Australia,India,2016,0.62,0.67,0.59,1
+7,Australia,Australia,India,2016,0.67,0.68,0.58,1
+3,Australia,Australia,India,2016,0.7,0.68,0.57,1
+6,India,Australia,India,2016,0.76,0.7,0.55,1
+3,New Zealand,New Zealand,Pakistan,2016,0.71,0.55,0.4,1
+4,Australia,New Zealand,Australia,2016,0.58,0.56,0.67,1
+5,England,South Africa,England,2016,0.24,0.55,0.47,1
+7,South Africa,South Africa,England,2016,0.19,0.54,0.48,1
+5,South Africa,South Africa,England,2016,0.43,0.55,0.47,1
+4,West Indies,West Indies,South Africa,2016,0.14,0.34,0.56,1
+6,Australia,West Indies,Australia,2016,0.17,0.35,0.67,1
+4,West Indies,West Indies,Australia,2016,0.14,0.34,0.67,1
+6,Australia,West Indies,Australia,2016,0.26,0.35,0.66,1
+10,England,England,Sri Lanka,2016,0.32,0.46,0.52,1
+6,England,England,Sri Lanka,2016,0.37,0.47,0.51,1
+3,Australia,Sri Lanka,Australia,2016,0.5,0.5,0.67,1
+4,England,England,Pakistan,2016,0.83,0.49,0.38,1
+2,Australia,Sri Lanka,Australia,2016,0.5,0.5,0.66,1
+6,Australia,Sri Lanka,Australia,2016,0.46,0.5,0.67,1
+4,England,England,Pakistan,2016,0.87,0.5,0.37,1
+5,Australia,Sri Lanka,Australia,2016,0.42,0.49,0.67,1
+4,Pakistan,England,Pakistan,2016,0.88,0.51,0.37,1
+2,Afghanistan,Bangladesh,Afghanistan,2016,0.72,0.41,0.08,1
+6,South Africa,South Africa,Australia,2016,0.4,0.55,0.68,1
+4,South Africa,South Africa,Australia,2016,0.51,0.56,0.66,1
+6,South Africa,South Africa,Australia,2016,0.56,0.57,0.65,1
+4,England,Bangladesh,England,2016,0.57,0.42,0.5,1
+6,India,India,New Zealand,2016,0.22,0.56,0.56,1
+7,India,India,New Zealand,2016,0.32,0.56,0.56,1
+8,New Zealand,New Zealand,Bangladesh,2016,0.59,0.54,0.39,1
+6,Pakistan,Australia,Pakistan,2017,0.89,0.65,0.4,1
+3,India,India,England,2017,0.57,0.56,0.51,1
+7,Australia,Australia,Pakistan,2017,0.75,0.64,0.41,1
+8,South Africa,South Africa,Sri Lanka,2017,0.52,0.58,0.49,1
+7,South Africa,South Africa,Sri Lanka,2017,0.62,0.59,0.47,1
+4,South Africa,New Zealand,South Africa,2017,0.39,0.56,0.61,1
+7,New Zealand,New Zealand,South Africa,2017,0.37,0.55,0.62,1
+6,South Africa,New Zealand,South Africa,2017,0.43,0.56,0.61,1
+4,England,West Indies,England,2017,0.16,0.33,0.51,1
+4,West Indies,West Indies,Pakistan,2017,0.31,0.32,0.39,1
+6,Pakistan,West Indies,Pakistan,2017,0.35,0.32,0.39,1
+4,New Zealand,Bangladesh,New Zealand,2017,0.35,0.39,0.55,1
+5,Bangladesh,Bangladesh,New Zealand,2017,0.3,0.38,0.55,1
+7,South Africa,England,South Africa,2017,0.61,0.53,0.6,1
+8,England,England,Bangladesh,2017,0.54,0.53,0.39,1
+7,Sri Lanka,India,Sri Lanka,2017,0.75,0.57,0.45,1
+5,Bangladesh,Bangladesh,New Zealand,2017,0.39,0.39,0.54,1
+8,India,India,South Africa,2017,0.44,0.57,0.6,1
+4,West Indies,West Indies,Afghanistan,2017,0,0.31,0.24,1
+3,Pakistan,Pakistan,Sri Lanka,2017,0.5,0.4,0.46,1
+8,Pakistan,England,Pakistan,2017,0.8,0.54,0.41,1
+9,India,Bangladesh,India,2017,0.32,0.4,0.57,1
+8,India,West Indies,India,2017,0.3,0.32,0.57,1
+9,India,Sri Lanka,India,2017,0.31,0.45,0.58,1
+3,India,Sri Lanka,India,2017,0.29,0.45,0.58,1
+6,India,Sri Lanka,India,2017,0.27,0.44,0.59,1
+6,India,Sri Lanka,India,2017,0.23,0.43,0.6,1
+7,England,England,West Indies,2017,0.89,0.54,0.32,1
+5,India,India,Australia,2017,0.42,0.61,0.62,1
+9,England,England,West Indies,2017,0.93,0.55,0.3,1
+7,India,India,Australia,2017,0.43,0.61,0.61,1
+10,South Africa,South Africa,Bangladesh,2017,0.4,0.59,0.39,1
+7,Pakistan,Pakistan,Sri Lanka,2017,0.59,0.44,0.42,1
+7,Pakistan,Pakistan,Sri Lanka,2017,0.61,0.45,0.42,1
+6,New Zealand,India,New Zealand,2017,0.44,0.62,0.53,1
+9,Pakistan,Pakistan,Sri Lanka,2017,0.64,0.46,0.41,1
+6,India,India,New Zealand,2017,0.39,0.61,0.54,1
